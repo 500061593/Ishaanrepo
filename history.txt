@@ -1,0 +1,119 @@
+    1  cd D:
+    2  mkdir 500061593:
+    3  ls:
+    4  cd 500061593:
+    5  pwd:
+    6  pwd
+    7  ls
+    8  pwd
+    9  touch hello.c
+   10  ls
+   11  git init
+   12  git staus
+   13  gitstaus
+   14  git status
+   15  git add hello.c
+   16  git status
+   17  git remote add origin https://github.com/500061593/newrepo.git
+   18  git remote add origin https://github.com/500061593/newrepo
+   19  git commit -m "comitting for first time"
+   20  git push
+   21  git push -u origin master
+   22  cd D:
+   23  cd 500061593
+   24  cd 500061593:
+   25  touch hello1.c
+   26  git init
+   27  git status
+   28  touch hello.txt
+   29  git init
+   30  git status
+   31  git add hello1.c
+   32  cd D:
+   33  cd 500061593:
+   34  mkdir src
+   35  cd src
+   36  mkdir files
+   37  cd files
+   38  touch command.c com.txt com.cpp
+   39  git init
+   40  git status
+   41  git add com.cpp com.txt command.c
+   42  git status
+   43  git remote and origin https://github.com/500061593/repo2
+   44  git remote add origin https://github.com/500061593/repo2
+   45  git commit -m "second repo"
+   46  git push
+   47  git push -u origin master
+   48  git push -u origin master
+   49  git remote add origin https://github.com/500061593/repo2
+   50  git push -u origin master
+   51  cd D:
+   52  cd 500061593:
+   53  cd src
+   54  cd files
+   55  git status
+   56  ls
+   57  git add .
+   58  git init
+   59  git add .
+   60  git status
+   61  git remote add origin https://github.com/500061593/second-repo
+   62  git commit -m "second one"
+   63  git push
+   64  git push -u origin master
+   65  cd D:
+   66  cd 500061593
+   67  cd 500061593:
+   68  cd src
+   69  cd files
+   70  touch a.c b.cpp c.txt
+   71  git init
+   72  git status
+   73  git add a.c b.cpp c.txt
+   74  git status
+   75  git remote add origin https://github.com/500061593/second-repo
+   76  commit -m "second one"
+   77  git commit -m "second one"
+   78  git push -u origin master
+   79  cd D:
+   80  cd 500061593:
+   81  cd src
+   82  cd files
+   83  status
+   84  git add .
+   85  status
+   86  git status
+   87  cd 500061593
+   88  cd 500061593:
+   89  git commit -m "second time"
+   90  git remote add origin2 https://github.com/500061593/second-repo
+   91  git push -u origin2 master
+   92  git add .
+   93  git commit -m "third"
+   94  git remote add origin3 https://github.com/500061593/repo3
+   95  git push -u origin3 master
+   96  git --help
+   97  git remote rm origin3
+   98  git remote
+   99  git status
+  100  git add .
+  101  git commit -m "updating changes"
+  102  git status
+  103  git push -u origin2
+  104  git log
+  105  cd D:
+  106  cd 500061593
+  107  cd 500061593:
+  108  cd src
+  109  cd files
+  110  vi command.c
+  111  vi command.c
+  112  git status
+  113  git add.
+  114  git add .
+  115  git status
+  116  git push -u origin2
+  117  git push -u origin2
+  118  git log
+  119  history > history.txt
